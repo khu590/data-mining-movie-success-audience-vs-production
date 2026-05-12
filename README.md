@@ -48,4 +48,4 @@ Early audience engagement is a stronger predictor of movie success than producti
 
 ## 👩‍💻 Author
 
-Khushi Natraj
+Khushi Bijkal
