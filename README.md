@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project predicts long-term movie success using machine learning techniques by combining production and audience features.
+This project predicts long-term movie success using machine learning techniques by combining production-related and audience-related features. Data from multiple sources such as IMDb is integrated and processed using a structured data mining methodology. Different machine learning models are evaluated to analyse how accurately movie success can be predicted and which features contribute most to prediction performance.
 
 ## 📊 Dataset
 
